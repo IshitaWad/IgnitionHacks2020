@@ -1,0 +1,13 @@
+As a quick disclaimer: We did make use of multiple online resources provided by the Ignition Hacks team.
+
+If there is any similarity between our code, it may be from the following resources:
+
+https://www.youtube.com/watch?time_continue=4&v=9gjKx9Z9E9Y&feature=emb_title
+
+https://www.youtube.com/watch?time_continue=69&v=cz5GSBv3DT4&feature=emb_title
+
+https://www.youtube.com/watch?v=pqNCD_5r0IU
+
+https://www.youtube.com/watch?v=zmdjNSmRXF4
+
+https://www.nicholasrenotte.com/how-to-build-a-sentiment-analyser-for-yelp-reviews-in-python/
